@@ -20,3 +20,13 @@ To better understand the dataset, several plots were used such as:
 - A wordcloud
   
   This is used to show the most frequent words that show micro aggression and those that do not show micro aggression.
+
+- N-gram Charts
+
+   Bigrams,trigrams and quadgrams of the 20 most frequent words.
+
+- Boxplot
+
+  A boxplot of class distribution by lenght of characters.
+
+
